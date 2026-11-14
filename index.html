@@ -53,7 +53,10 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .toggle{margin-left:auto;font-size:12px;color:var(--muted);display:flex;gap:6px;align-items:center}
 .status{font-size:12px;color:var(--muted);min-height:18px;margin:10px 0 0}
 .list{display:flex;flex-direction:column;gap:10px;margin-top:10px}
-.item{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px;display:grid;grid-template-columns:1fr auto;gap:4px 10px}
+.item{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px;display:flex;gap:12px;align-items:flex-start}
+.thumb{flex:0 0 88px;width:88px;height:88px;border-radius:10px;overflow:hidden;background:var(--line);display:grid;place-items:center;color:var(--muted);font-size:11px;text-align:center}
+.thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.body{flex:1;min-width:0;display:grid;grid-template-columns:1fr auto;gap:4px 10px}
 .item.is-hidden{opacity:.55}
 .main{min-width:0}
 .meta{display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:12px;color:var(--muted)}
@@ -73,7 +76,7 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .btn[aria-pressed="true"]{color:var(--lane);border-color:var(--lane)}
 .empty{background:var(--surface);border:1px dashed var(--line);border-radius:12px;padding:24px 18px;color:var(--muted);text-align:center}
 footer{margin-top:24px;font-size:12px;color:var(--muted)}
-@media (max-width:420px){.item{grid-template-columns:1fr}.side{flex-direction:row;align-items:center;justify-content:space-between}}
+@media (max-width:520px){.body{grid-template-columns:1fr}.side{flex-direction:row;align-items:center;justify-content:space-between}.thumb{flex-basis:76px;width:76px;height:76px}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 .refresh{margin-left:auto}
 .status{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
@@ -162,7 +165,12 @@ footer{margin-top:24px;font-size:12px;color:var(--muted)}
     const f=document.createElement("button");f.type="button";f.className="btn";f.setAttribute("aria-pressed",String(fav));f.textContent=fav?"★ 관심":"☆ 관심";f.onclick=()=>toggle(it,"fav");
     const h=document.createElement("button");h.type="button";h.className="btn";h.textContent=hid?"다시 보기":"숨기기";h.onclick=()=>toggle(it,"hidden");
     acts.append(f,h);side.append(info,acts);
-    el.append(main,side);return el;
+    const th=document.createElement("a");th.className="thumb";th.target="_blank";th.rel="noopener";th.setAttribute("aria-hidden","true");th.tabIndex=-1;
+    if(a.href)th.href=a.href;
+    const noPic=()=>{th.replaceChildren();th.textContent="사진 없음";};
+    if(/^https:\/\//.test(it.image||"")){const im=document.createElement("img");im.src=it.image;im.alt="";im.loading="lazy";im.decoding="async";im.referrerPolicy="no-referrer";im.onerror=noPic;th.append(im);}else noPic();
+    const body=document.createElement("div");body.className="body";body.append(main,side);
+    el.append(th,body);return el;
   }
 
   function render(){
