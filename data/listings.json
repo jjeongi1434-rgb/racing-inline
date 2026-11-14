@@ -715,7 +715,23 @@
       "posted": "26.11.02",
       "found": "2026-11-14T20:12:00+09:00",
       "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/200817e627954e70cd7be5329809bce071872c2b"
+    },
+    {
+      "id": "joongna-232442831",
+      "site": "중고나라",
+      "title": "솔베인인라인",
+      "url": "https://web.joongna.com/product/232442831",
+      "size": "225",
+      "sizes": [
+        225
+      ],
+      "price": 100000,
+      "brand": "솔베인",
+      "status": "bad",
+      "note": "설명에 '기스가 있어 저렴히' — 부츠만, 상태 불량으로 제외",
+      "found": "2026-11-15T08:12:18+09:00",
+      "image": "https://img2.joongna.com/media/original/2026/09/15/1789443690779OW1_LND34.jpg?impolicy=resizeWatermark3&ftext=kmh7136"
     }
   ],
-  "updated": "2026-11-14T22:12:24+09:00"
+  "updated": "2026-11-15T08:12:18+09:00"
 }
