@@ -1,0 +1,16 @@
+{
+  "name": "레이싱 인라인 매물판",
+  "short_name": "인라인매물",
+  "description": "220·225·230mm 레이싱 인라인 중고 매물 모음",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#1f4fd6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
