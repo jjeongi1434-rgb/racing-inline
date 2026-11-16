@@ -667,7 +667,39 @@
       "note": "수제 카본 부츠+알루미늄 프레임 풀세트, 상태 언급 없음",
       "found": "2026-11-15T20:12:26+09:00",
       "image": "https://img.kr.gcp-karroter.net/origin/article/202610/6f4925a1-5d85-4dbe-818e-79aee47296ed.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+    },
+    {
+      "id": "daangn-14s5dcvayy2u",
+      "site": "당근",
+      "title": "스피드 레이싱 인라인스케이트 225 CIS 카본부츠 LB82",
+      "url": "https://www.daangn.com/kr/buy-sell/14s5dcvayy2u/",
+      "size": "225",
+      "sizes": [
+        225
+      ],
+      "price": 350000,
+      "brand": "CIS스포츠 (지정 브랜드 아님)",
+      "status": "good",
+      "note": "카본부츠+쉥켈 라이트맥스 프레임+아르코 100mm, 이니셜 있음·사용감 조금·상태양호",
+      "found": "2026-11-16T03:41:46+09:00",
+      "image": "https://img.kr.gcp-karroter.net/origin/article/202604/9cc1e601e154f0e7f664efe9131f3ed2a059d5f26e448df9fc354835747358bf_0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+    },
+    {
+      "id": "daangn-h1rv7g7ndt74",
+      "site": "당근",
+      "title": "슈가티 인라인 스케이트 EU36 (230mm)",
+      "url": "https://www.daangn.com/kr/buy-sell/h1rv7g7ndt74/",
+      "size": "230 (EU36)",
+      "sizes": [
+        230
+      ],
+      "price": 143000,
+      "brand": "슈가티 (지정 브랜드 아님)",
+      "status": "unknown",
+      "note": "카본 레이싱 인라인, 6061 프레임·90mm 휠 — 상태 언급 없음",
+      "found": "2026-11-16T03:41:46+09:00",
+      "image": "https://img.kr.gcp-karroter.net/origin/article/202609/23233674-fa60-415c-8174-5167479d73c6.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
     }
   ],
-  "updated": "2026-11-15T20:12:26+09:00"
+  "updated": "2026-11-16T03:41:46+09:00"
 }
