@@ -1,755 +1,787 @@
 {
-  "items": [
-    {
-      "brand": "",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "cafe-BrB2-27379",
-      "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/0dc78546fa80786ce437876f59cd53e7df623a33",
-      "note": "레이싱-스케이트 세트 게시판, 브랜드 미표기",
-      "posted": "10.12",
-      "price": null,
-      "site": "인라인파크",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "status": "cafe",
-      "title": "225mm 풀세트",
-      "url": "https://m.cafe.daum.net/inline4989/BrB2/27379"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "cafe-BrB2-27380",
-      "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/c93c48a5275ec6021af0d1f5f813130e7a0a78b7",
-      "note": "레이싱-스케이트 세트 게시판",
-      "posted": "10.12",
-      "price": null,
-      "site": "인라인파크",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "status": "cafe",
-      "title": "시티런 225mm 인라인 세트",
-      "url": "https://m.cafe.daum.net/inline4989/BrB2/27380"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "cafe-BrB2-27381",
-      "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/763bacbbafa3a3c035f9f83dee83a1152c63e576",
-      "note": "레이싱-스케이트 세트 게시판",
-      "posted": "10.13",
-      "price": null,
-      "site": "인라인파크",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "cafe",
-      "title": "시티런 230 팝니다",
-      "url": "https://m.cafe.daum.net/inline4989/BrB2/27381"
-    },
-    {
-      "brand": "솔베인",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "cafe-BrB2-27387",
-      "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/13ba74795f1c24492d7d24379ce7a3d22bec2c5c",
-      "note": "같은 판매자의 다른 글: m.cafe.daum.net/inline4989/BrB2/27386",
-      "posted": "10.22",
-      "price": null,
-      "site": "인라인파크",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "status": "cafe",
-      "title": "솔베인 225 팝니다 (같은 판매자 글 2개)",
-      "url": "https://m.cafe.daum.net/inline4989/BrB2/27387"
-    },
-    {
-      "brand": "솔베인",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "cafe-BrB2-27394",
-      "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/a9d7887cb153c140b9be7ae58e67ebe1a6304e58",
-      "note": "미리보기: 외관 사용감 빼고는 내피 상태 좋음",
-      "posted": "11.13",
-      "price": null,
-      "site": "인라인파크",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "status": "cafe",
-      "title": "솔베인 225 이즈 프레임",
-      "url": "https://m.cafe.daum.net/inline4989/BrB2/27394"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "cafe-Lev4-29390",
-      "note": "레이싱-부츠 게시판",
-      "posted": "10.30",
-      "price": null,
-      "site": "인라인파크",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "cafe",
-      "title": "시티런 엘리트 부츠 230mm",
-      "url": "https://m.cafe.daum.net/inline4989/Lev4/29390"
-    },
-    {
-      "brand": "S부츠",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "cafe-Lev4-29401",
-      "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/f301134d1aba90618bbf06007549e6681a134bb8",
-      "note": "레이싱-부츠 게시판",
-      "posted": "11.08",
-      "price": null,
-      "site": "인라인파크",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "status": "cafe",
-      "title": "S 부츠 220mm (가격수정)",
-      "url": "https://m.cafe.daum.net/inline4989/Lev4/29401"
-    },
-    {
-      "brand": "시티런 · S부츠",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "cafe-Lev4-29404",
-      "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/9e295ace984233d14b1577959d70a3fa8a7ab273",
-      "note": "레이싱-부츠 게시판",
-      "posted": "11.11",
-      "price": null,
-      "site": "인라인파크",
-      "size": "230-235",
-      "sizes": [
-        230
-      ],
-      "status": "cafe",
-      "title": "시티런 / S 부츠 판매합니다 (230-235)",
-      "url": "https://m.cafe.daum.net/inline4989/Lev4/29404"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "daangn-3o5x77wmgot6",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202610/e05e3c2e-2b1a-4151-aed5-d1cdc1833063.webp?f=webp&q=90&s=300x300&t=crop",
-      "note": "장갑·신발 케이스 포함, 상태 언급 없음",
-      "price": 120000,
-      "site": "당근",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "unknown",
-      "title": "선수용 시티런 레이싱 인라인 230",
-      "url": "https://www.daangn.com/kr/buy-sell/%EC%84%A0%EC%88%98%EC%9A%A9-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-230-3o5x77wmgot6/"
-    },
-    {
-      "brand": "솔베인",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "daangn-49wems3v3whv",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202609/1789347549084668f1ed02c2bc1d657da9ce7398342d556d9b8c306368b9d223263e01467bbf20.webp?f=webp&q=90&s=300x300&t=crop",
-      "note": "까짐 있음",
-      "price": 100000,
-      "site": "당근",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "status": "bad",
-      "title": "솔베인 인라인 225",
-      "url": "https://www.daangn.com/kr/buy-sell/%EC%86%94%EB%B2%A0%EC%9D%B8-%EC%9D%B8%EB%9D%BC%EC%9D%B8225-49wems3v3whv/"
-    },
-    {
-      "brand": "스케이팅스타트 (지정 브랜드 아님)",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "daangn-843f8iui5tu9",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202610/1791894855098369db07a5cbcac95132a5adb243b7dee99e7408b8e5dfcd966cad2fbe913d3270.webp?f=webp&q=90&s=300x300&t=crop",
-      "note": "올해 5월 구입, 10회 미만, 박스 풀구성",
-      "price": 430000,
-      "site": "당근",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "status": "good",
-      "title": "SKATING START 레이싱 인라인 스케이트 225",
-      "url": "https://www.daangn.com/kr/buy-sell/skating-start-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-225-210%EB%B6%80%ED%84%B0-%EC%B0%A9%EC%9A%A9-%EA%B0%80%EB%8A%A5-843f8iui5tu9/"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "daangn-f6i2jx1nu5cx",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202503/ffc8d23dbd9147f44ce4a021f9f119f7b8c7ea0354a902861e2efa18dea7d39e_0.webp?f=webp&q=90&s=300x300&t=crop",
-      "note": "사용감 조금, 상태 양호. 중고나라에도 같은 매물",
-      "price": 450000,
-      "site": "당근",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "status": "good",
-      "title": "챔피언 시티런 스피드 레이싱 인라인 225 (LB37)",
-      "url": "https://www.daangn.com/kr/buy-sell/%EC%B1%94%ED%94%BC%EC%96%B8-%EC%8B%9C%ED%8B%B0%EB%9F%B0-%EC%8A%A4%ED%94%BC%EB%93%9C-%EC%9D%B8%EB%9D%BC%EC%9D%B8%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-225-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-lb37-f6i2jx1nu5cx/"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "daangn-kdcud1grrs7u",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202610/76400aa4-40ec-4501-8c9e-8e9a732698eb.webp?f=webp&q=90&s=300x300&t=crop",
-      "note": "사용감 있지만 주행 문제 없음",
-      "price": 200000,
-      "site": "당근",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "status": "good",
-      "title": "시티런 레이싱 인라인 스케이트 220mm",
-      "url": "https://www.daangn.com/kr/buy-sell/%EC%8B%9C%ED%8B%B0%EB%9F%B0-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-220mm-kdcud1grrs7u/"
-    },
-    {
-      "brand": "S부츠",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "daangn-kjsh3nfc8cmr",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202604/604fc67c680904d9eea5a4846c6bc77576a76489033a99bd9f390222fad59348_0.webp?f=webp&q=90&s=300x300&t=crop",
-      "note": "미사용 새제품, 정가 66만원",
-      "price": 500000,
-      "site": "당근",
-      "size": "215-225",
-      "sizes": [
-        220,
-        225
-      ],
-      "status": "good",
-      "title": "215-225 레이싱 인라인 새제품 (S부츠)",
-      "url": "https://www.daangn.com/kr/buy-sell/215-225-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%83%88%EC%A0%9C%ED%92%88-kjsh3nfc8cmr/"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "daangn-mx51hzoouk3c",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202610/17918783791764f0ad78628891c4f4f7c0effc0cb03aeb8eccdd133626cd3b4f24d2e8c3693d00.webp?f=webp&q=90&s=300x300&t=crop",
-      "note": "설명에 상태 언급 없음",
-      "price": 200000,
-      "site": "당근",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "unknown",
-      "title": "시티런 레이싱 인라인 230 + 이즈프레임",
-      "url": "https://www.daangn.com/kr/buy-sell/%EC%8B%9C%ED%8B%B0%EB%9F%B0-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-230m-mx51hzoouk3c/"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "daangn-oi85v55zj2b1",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202608/f08242270a4a0e3159a72d6f0101ff33f44a92d701a5307042daba0fe0364798_0.webp?f=webp&q=90&s=300x300&t=crop",
-      "note": "상태 언급 없음, 반품 불가",
-      "price": 124000,
-      "site": "당근",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "status": "unknown",
-      "title": "챔피언 시티런 인라인 스케이트 225",
-      "url": "https://www.daangn.com/kr/buy-sell/%EC%B1%94%ED%94%BC%EC%96%B8-%EC%8B%9C%ED%8B%B0%EB%9F%B0-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-225-oi85v55zj2b1/"
-    },
-    {
-      "brand": "솔베인",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "daangn-p2iedbr6u317",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202602/1770530343142703032319c51deeae227de7c99a061f19623bc3277d0ce2e8dcddcaf62eb15c80.webp?f=webp&q=90&s=300x300&t=crop",
-      "note": "1년 사용, 까짐 조금 있음 — 사진 확인 필요",
-      "price": 300000,
-      "site": "당근",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "status": "good",
-      "title": "솔베인 드림 플러스 인라인 220 (선수용)",
-      "url": "https://www.daangn.com/kr/buy-sell/%EC%86%94%EB%B2%A0%EC%9D%B8-%EB%93%9C%EB%A6%BC-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-220%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%84%A0%EC%88%98%EC%9A%A9%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%ED%94%BC%EB%93%9C%EC%9D%B8%EB%9D%BC%EC%9D%B8-220-p2iedbr6u317/"
-    },
-    {
-      "brand": "FX4 (지정 브랜드 아님)",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "joongna-225512960",
-      "image": "https://img2.joongna.com/media/original/2026/02/22/1771718753385zWD_4jsSX.jpg?impolicy=resizeWatermark3&ftext=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%238002940",
-      "note": "20회 미만, 매우 양호, 바퀴 거의 새것. 이름 써 있음",
-      "price": 250000,
-      "site": "중고나라",
-      "size": "220~235",
-      "sizes": [
-        220,
-        225,
-        230
-      ],
-      "status": "good",
-      "title": "레이싱 인라인스케이트 220~235 FX4",
-      "url": "https://web.joongna.com/product/225512960"
-    },
-    {
-      "brand": "CIS (지정 브랜드 아님)",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "joongna-227849593",
-      "image": "https://img2.joongna.com/media/original/2026/04/23/17769414299713z8_aSeaq.jpg?impolicy=resizeWatermark3&ftext=%EC%83%88%EC%82%A5%EC%9E%A5%ED%84%B0",
-      "note": "사용감 조금, 상태 양호, 이니셜 있음",
-      "price": 350000,
-      "site": "중고나라",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "status": "good",
-      "title": "스피드 레이싱 인라인 225 CIS 카본부츠 (LB82)",
-      "url": "https://web.joongna.com/product/227849593"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "joongna-227962130",
-      "image": "https://img2.joongna.com/media/original/2026/04/26/1777210378784t6w_yJxB4.jpg?impolicy=resizeWatermark3&ftext=%EC%A7%80%EC%98%81%EC%93%B02",
-      "note": "사용감 있음",
-      "price": 150000,
-      "site": "중고나라",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "bad",
-      "title": "시티런 엘리트 230",
-      "url": "https://web.joongna.com/product/227962130"
-    },
-    {
-      "brand": "테크니카 (지정 브랜드 아님)",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "joongna-229488129",
-      "image": "https://img2.joongna.com/media/original/2026/06/10/17810468659284jK_U8XQq.jpg?impolicy=resizeWatermark3&ftext=%ED%97%A4%EC%9D%B4%EC%9D%B4%EC%B8%A0%EB%AF%B8%EB%8C%80%EB%8B%88",
-      "note": "\"양호한 편\"이라고만 적혀 있음",
-      "price": 55000,
-      "site": "중고나라",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "unknown",
-      "title": "테크니카 레이싱 인라인 5륜 230mm",
-      "url": "https://web.joongna.com/product/229488129"
-    },
-    {
-      "brand": "내셔널 (지정 브랜드 아님)",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "joongna-229527822",
-      "image": "https://img2.joongna.com/media/original/2026/06/11/1781144264779vxh_qzczq.jpg?impolicy=resizeWatermark3&ftext=%EB%9F%AC%ED%82%A4%EC%86%A1%EC%86%A1",
-      "note": "까짐 있음, 테이핑 필요",
-      "price": 120000,
-      "site": "중고나라",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "status": "bad",
-      "title": "레이싱인라인 NL부츠(내셔널스포츠) 220mm",
-      "url": "https://web.joongna.com/product/229527822"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "joongna-230742973",
-      "image": "https://img2.joongna.com/media/original/2026/07/18/1784363365698vDZ_AslZl.jpg?impolicy=resizeWatermark3&ftext=%EC%99%B8%EC%A0%A0",
-      "note": "가죽 벗겨진 부분 있음",
-      "price": 180000,
-      "site": "중고나라",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "bad",
-      "title": "씨티런 레이싱인라인 230mm",
-      "url": "https://web.joongna.com/product/230742973"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T16:40:00+09:00",
-      "id": "joongna-230908525",
-      "image": "https://img2.joongna.com/media/original/2026/07/23/1784804529793J21_Qq7mr.jpg?impolicy=resizeWatermark3&ftext=%EB%A7%A4%EB%8F%85",
-      "note": "프레임 길이 279, 상태 언급 없음",
-      "price": 250000,
-      "site": "중고나라",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "status": "unknown",
-      "title": "시티런 인라인 220 레이싱인라인",
-      "url": "https://web.joongna.com/product/230908525"
-    },
-    {
-      "brand": "센텀",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "daangn-mdpk9m4sqdzu",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202611/17937716562862731564de717f4d9537d19d70068779f5e785b099a56a431c0fefb437205b1510.webp?f=webp&q=95&s=300x300&service=webapp&t=crop",
-      "note": "새상품 카본부츠(부츠만), 165마운트, 프레임 체결 안 함. 설명엔 25만원 (중고나라 233792041과 같은 판매자)",
-      "price": 210000,
-      "site": "당근",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "status": "good",
-      "title": "센텀 인라인레이싱 슈즈 새상품 (220)",
-      "url": "https://www.daangn.com/kr/buy-sell/%EC%84%BC%ED%85%80-%EC%9D%B8%EB%9D%BC%EC%9D%B8%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%8A%88%EC%A6%88-%EC%83%88%EC%83%81%ED%92%88-mdpk9m4sqdzu/"
-    },
-    {
-      "brand": "센텀",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "daangn-9j1ig6ie73v2",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202611/1793771464637c2b214b981ebc5dd88651968a99f40423078357d7721ed3c364d96c895fdb9360.webp?f=webp&q=95&s=300x300&service=webapp&t=crop",
-      "note": "새상품 카본부츠(부츠만), 165마운트. 설명엔 25만원 (중고나라 233791960과 같은 판매자)",
-      "price": 210000,
-      "site": "당근",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "good",
-      "title": "센텀 레이싱인라인부츠 새상품 (230)",
-      "url": "https://www.daangn.com/kr/buy-sell/%EC%84%BC%ED%85%80-%EB%A0%88%EC%9D%B4%EC%8B%B1%EC%9D%B8%EB%9D%BC%EC%9D%B8%EB%B6%80%EC%B8%A0-%EC%83%88%EC%83%81%ED%92%88-9j1ig6ie73v2/"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "daangn-8hk1ivd4pke5",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202611/63d7e1c2-8b85-459d-b930-9f8e6302a81f.webp?f=webp&q=95&s=300x300&service=webapp&t=crop",
-      "note": "카본 부츠 풀세트, “사용감 있습니다”만 적혀 있음 — 사진 확인 필요",
-      "price": 120000,
-      "site": "당근",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "unknown",
-      "title": "시티런 챔피언 레이싱 인라인 스케이트 블랙",
-      "url": "https://www.daangn.com/kr/buy-sell/%EC%8B%9C%ED%8B%B0%EB%9F%B0-%EC%B1%94%ED%94%BC%EC%96%B8-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-%EB%B8%94%EB%9E%99-8hk1ivd4pke5/"
-    },
-    {
-      "brand": "로드스타 (지정 브랜드 아님)",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "daangn-aju8ouqyfqdf",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202611/7bac76391bb0e7e029e3b9ec513efa75868c7d7b49a0fd7dbc31fa15109c028a_0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop",
-      "note": "사이드 마찰로 쓸린 자국 있음",
-      "price": 150000,
-      "site": "당근",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "status": "bad",
-      "title": "로드스타 레이싱 인라인 스케이트 블루",
-      "url": "https://www.daangn.com/kr/buy-sell/%EB%A1%9C%EB%93%9C%EC%8A%A4%ED%83%80-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-%EB%B8%94%EB%A3%A8-aju8ouqyfqdf/"
-    },
-    {
-      "brand": "솔베인",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "joongna-225063932",
-      "image": "https://img2.joongna.com/media/original/2026/02/08/17705552038446RL_GEwr9.jpg?impolicy=resizeWatermark3&ftext=%EC%9C%A0%EC%A0%84%EB%AC%B4%EC%A3%84%EB%AC%B4%EC%A0%84%EC%9C%A0%EC%A3%84",
-      "note": "솔베인 레이싱 부츠 새상품(부츠만), 220 2켤레·225 1켤레, 각 30만원 (2월 등록글)",
-      "price": 300000,
-      "site": "중고나라",
-      "size": "220, 225",
-      "sizes": [
-        220,
-        225
-      ],
-      "status": "good",
-      "title": "인라인 레이싱 부츠 (솔베인 220/225)",
-      "url": "https://web.joongna.com/product/225063932"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "joongna-225064851",
-      "image": "https://img2.joongna.com/media/original/2026/02/08/1770556758949IU0_n4PQP.jpg?impolicy=resizeWatermark3&ftext=%EC%9C%A0%EC%A0%84%EB%AC%B4%EC%A3%84%EB%AC%B4%EC%A0%84%EC%9C%A0%EC%A3%84",
-      "note": "씨티런 챔피언 220 새상품(부츠만), 30만원 택배비 포함 (2월 등록글)",
-      "price": 300000,
-      "site": "중고나라",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "status": "good",
-      "title": "인라인 레이싱 부츠 (씨티런 챔피언 220)",
-      "url": "https://web.joongna.com/product/225064851"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "joongna-224181716",
-      "image": "https://img2.joongna.com/media/original/2026/01/16/1768547286350RGJ_s2ov2.jpg?impolicy=resizeWatermark3&ftext=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%238875151",
-      "note": "사이즈 확인만 한 새상품, 사이즈 미스 (1월 등록글)",
-      "price": 300000,
-      "site": "중고나라",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "status": "good",
-      "title": "시티런 인라인 220",
-      "url": "https://web.joongna.com/product/224181716"
-    },
-    {
-      "brand": "센텀",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "joongna-233792041",
-      "image": "https://img2.joongna.com/media/original/2026/11/04/1793771326303Fm6_eOt3A.jpg?impolicy=resizeWatermark3&ftext=2%ED%98%B8%EC%95%BC%ED%8C%8C",
-      "note": "새상품 카본부츠, 165마운트 (당근 mdpk9m4sqdzu와 같은 판매자)",
-      "price": 250000,
-      "site": "중고나라",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "status": "good",
-      "title": "센텀 레이싱인라인부츠 (220)",
-      "url": "https://web.joongna.com/product/233792041"
-    },
-    {
-      "brand": "센텀",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "joongna-233791960",
-      "image": "https://img2.joongna.com/media/original/2026/11/04/1793771157135OKU_EV3sJ.jpg?impolicy=resizeWatermark3&ftext=2%ED%98%B8%EC%95%BC%ED%8C%8C",
-      "note": "새상품 카본부츠, 165마운트 (당근 9j1ig6ie73v2와 같은 판매자)",
-      "price": 250000,
-      "site": "중고나라",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "good",
-      "title": "센텀 레이싱인라인부츠 (230)",
-      "url": "https://web.joongna.com/product/233791960"
-    },
-    {
-      "brand": "STRUT (지정 브랜드 아님)",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "joongna-209492307",
-      "image": "https://img2.joongna.com/cafe-article-data/live/2025/05/11/1105098399/1746952440807_000_uJfb2_main.jpg?impolicy=resizeWatermark3&ftext=%EC%9D%91%EB%8B%B5%ED%95%98%EB%9D%BC%EC%9D%B4%EC%BD%94%EC%8A%A4",
-      "note": "부츠만, 상태 설명 없음(사진 확인), 네고·반품 불가 (2025년 5월 글)",
-      "price": 42000,
-      "site": "중고나라",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "unknown",
-      "title": "인라인스케이트 부츠 스트럿 STRUT 루이지노 레이싱 230mm 165 마운트",
-      "url": "https://web.joongna.com/product/209492307"
-    },
-    {
-      "brand": "시티런",
-      "found": "2026-11-14T18:12:00+09:00",
-      "id": "joongna-214294856",
-      "image": "https://img2.joongna.com/cafe-article-data/live/2025/07/03/1110551977/1751529224519_000_4Yuw3_main.jpg?impolicy=resizeWatermark3&ftext=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%239612674",
-      "note": "230은 이미 팔리고 215mm만 남음",
-      "price": 180000,
-      "site": "중고나라",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "status": "bad",
-      "title": "레이싱용 인라인 (씨티런 챔피온)",
-      "url": "https://web.joongna.com/product/214294856"
-    },
-    {
-      "id": "daangn-gnq1b4qfhwa9",
-      "site": "당근",
-      "title": "Raider 아동용 스피드 인라인 판매합니다",
-      "url": "https://www.daangn.com/kr/buy-sell/raider-%EC%95%84%EB%8F%99%EC%9A%A9-%EC%8A%A4%ED%94%BC%EB%93%9C-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%ED%8C%90%EB%A7%A4%ED%95%A9%EB%8B%88%EB%8B%A4-gnq1b4qfhwa9/",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "price": 100000,
-      "brand": "Raider (지정 브랜드 아님)",
-      "status": "good",
-      "note": "선수 훈련용 사용 후 보관, 사용감 있으나 기능 문제 없음. 가방·헬멧·보호대 포함 세트 (2026-06 글)",
-      "found": "2026-11-14T20:12:00+09:00",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202606/a889a79b4809c2cfd5dcfd5a35659cbc11ce8e32c49ef9421d3e1aae63142d34_0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
-    },
-    {
-      "id": "cafe-Lev4-29394",
-      "site": "인라인파크",
-      "title": "시티런 230 사이즈 판매합니다.(판매완료)",
-      "url": "https://m.cafe.daum.net/inline4989/Lev4/29394",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "price": null,
-      "brand": "시티런",
-      "status": "bad",
-      "note": "제목에 판매완료 — 제외",
-      "posted": "26.11.02",
-      "found": "2026-11-14T20:12:00+09:00",
-      "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/200817e627954e70cd7be5329809bce071872c2b"
-    },
-    {
-      "id": "joongna-232442831",
-      "site": "중고나라",
-      "title": "솔베인인라인",
-      "url": "https://web.joongna.com/product/232442831",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "price": 100000,
-      "brand": "솔베인",
-      "status": "bad",
-      "note": "설명에 '기스가 있어 저렴히' — 부츠만, 상태 불량으로 제외",
-      "found": "2026-11-15T08:12:18+09:00",
-      "image": "https://img2.joongna.com/media/original/2026/09/15/1789443690779OW1_LND34.jpg?impolicy=resizeWatermark3&ftext=kmh7136"
-    },
-    {
-      "id": "joongna-227913279",
-      "site": "중고나라",
-      "title": "씨티런 인라인스케이트",
-      "url": "https://web.joongna.com/product/227913279",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "price": 300000,
-      "brand": "시티런",
-      "status": "good",
-      "note": "씨티런 챔피온 225, 165마운트, 반품불가 새상품(국산) — 26년 4월 글",
-      "found": "2026-11-15T10:12:55+09:00",
-      "image": "https://img2.joongna.com/media/original/2026/04/25/1777099626512m6l_L9bEn.jpg?impolicy=resizeWatermark3&ftext=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%2310760175"
-    },
-    {
-      "id": "joongna-208018668",
-      "site": "중고나라",
-      "title": "시티런 인라인스케이트+스케이트날 일괄",
-      "url": "https://web.joongna.com/product/208018668",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "price": 149000,
-      "brand": "시티런",
-      "status": "bad",
-      "note": "약 12년 전 선수용, '사용감 좀 있음·하자는 사진 확인' — 녹슨 빙상날 서비스",
-      "found": "2026-11-15T10:12:55+09:00",
-      "image": "https://img2.joongna.com/media/original/2025/06/11/17496477465582NA_wL0jY.jpg?impolicy=resizeWatermark3&ftext=%EB%AD%89%EA%B2%8C%EA%B5%AC%EB%A6%8488"
-    },
-    {
-      "id": "daangn-gn8a7h64qp3o",
-      "site": "당근",
-      "title": "Simmons Racing K-Series 인라인 스케이트 풀셋트(230)",
-      "url": "https://www.daangn.com/kr/buy-sell/gn8a7h64qp3o/",
-      "size": "230",
-      "sizes": [
-        230
-      ],
-      "price": 250000,
-      "brand": "Simmons Racing (지정 브랜드 아님)",
-      "status": "unknown",
-      "note": "수제 카본 부츠+알루미늄 프레임 풀세트, 상태 언급 없음",
-      "found": "2026-11-15T20:12:26+09:00",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202610/6f4925a1-5d85-4dbe-818e-79aee47296ed.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
-    },
-    {
-      "id": "daangn-14s5dcvayy2u",
-      "site": "당근",
-      "title": "스피드 레이싱 인라인스케이트 225 CIS 카본부츠 LB82",
-      "url": "https://www.daangn.com/kr/buy-sell/14s5dcvayy2u/",
-      "size": "225",
-      "sizes": [
-        225
-      ],
-      "price": 350000,
-      "brand": "CIS스포츠 (지정 브랜드 아님)",
-      "status": "good",
-      "note": "카본부츠+쉥켈 라이트맥스 프레임+아르코 100mm, 이니셜 있음·사용감 조금·상태양호",
-      "found": "2026-11-16T03:41:46+09:00",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202604/9cc1e601e154f0e7f664efe9131f3ed2a059d5f26e448df9fc354835747358bf_0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
-    },
-    {
-      "id": "daangn-h1rv7g7ndt74",
-      "site": "당근",
-      "title": "슈가티 인라인 스케이트 EU36 (230mm)",
-      "url": "https://www.daangn.com/kr/buy-sell/h1rv7g7ndt74/",
-      "size": "230 (EU36)",
-      "sizes": [
-        230
-      ],
-      "price": 143000,
-      "brand": "슈가티 (지정 브랜드 아님)",
-      "status": "unknown",
-      "note": "카본 레이싱 인라인, 6061 프레임·90mm 휠 — 상태 언급 없음",
-      "found": "2026-11-16T03:41:46+09:00",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202609/23233674-fa60-415c-8174-5167479d73c6.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
-    },
-    {
-      "id": "daangn-d7cu3sggyzka",
-      "site": "당근",
-      "title": "시티런 엘리트 프로 인라인 스케이트 부츠 화이트 220mm",
-      "url": "https://www.daangn.com/kr/buy-sell/d7cu3sggyzka/",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "price": 250000,
-      "brand": "시티런",
-      "status": "good",
-      "note": "카본 레이싱 부츠만. 아이가 한 번 타고 바꿈(사진으로 상태 확인 권장), 시착 가능",
-      "found": "2026-11-16T20:12:47+09:00",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202611/6d59870d-dfbd-4615-b455-37d2810d4514.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
-    },
-    {
-      "id": "daangn-sa8hj1tz759b",
-      "site": "당근",
-      "title": "시티런 레이싱 인라인스케이트 220 cm",
-      "url": "https://www.daangn.com/kr/buy-sell/sa8hj1tz759b/",
-      "size": "220",
-      "sizes": [
-        220
-      ],
-      "price": 400000,
-      "brand": "시티런",
-      "status": "good",
-      "note": "레이싱 풀세트(100mm 휠, 1004 프레임). 실내 강습만 해서 깨끗함",
-      "found": "2026-11-17T15:10:00+09:00",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202611/179488966219121651e53fcd5d7740c720ce34dfe171ed461616ba76da27225d99f821273af2a0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
-    },
-    {
-      "id": "daangn-ugur7cj2d8ar",
-      "site": "당근",
-      "title": "레이싱 인라인 스케이트 FX4",
-      "url": "https://www.daangn.com/kr/buy-sell/ugur7cj2d8ar/",
-      "size": "220~235",
-      "sizes": [
-        220,
-        225,
-        230
-      ],
-      "price": 200000,
-      "brand": "FX4 (지정 브랜드 아님)",
-      "status": "good",
-      "note": "레이싱용, 주말 간헐 실착 20회 미만, 상태 매우 양호·바퀴 거의 새것",
-      "found": "2026-11-18T12:13:00+09:00",
-      "image": "https://img.kr.gcp-karroter.net/origin/article/202602/f82dd6900f427e5ceca8d9c6e17b4f0febd2c5a6ce12a64dd1cc523a83196682_0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
-    }
-  ],
-  "updated": "2026-11-18T12:13:00+09:00"
+ "items": [
+  {
+   "brand": "",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "cafe-BrB2-27379",
+   "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/0dc78546fa80786ce437876f59cd53e7df623a33",
+   "note": "레이싱-스케이트 세트 게시판, 브랜드 미표기",
+   "posted": "10.12",
+   "price": null,
+   "site": "인라인파크",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "status": "cafe",
+   "title": "225mm 풀세트",
+   "url": "https://m.cafe.daum.net/inline4989/BrB2/27379"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "cafe-BrB2-27380",
+   "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/c93c48a5275ec6021af0d1f5f813130e7a0a78b7",
+   "note": "레이싱-스케이트 세트 게시판",
+   "posted": "10.12",
+   "price": null,
+   "site": "인라인파크",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "status": "cafe",
+   "title": "시티런 225mm 인라인 세트",
+   "url": "https://m.cafe.daum.net/inline4989/BrB2/27380"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "cafe-BrB2-27381",
+   "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/763bacbbafa3a3c035f9f83dee83a1152c63e576",
+   "note": "레이싱-스케이트 세트 게시판",
+   "posted": "10.13",
+   "price": null,
+   "site": "인라인파크",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "cafe",
+   "title": "시티런 230 팝니다",
+   "url": "https://m.cafe.daum.net/inline4989/BrB2/27381"
+  },
+  {
+   "brand": "솔베인",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "cafe-BrB2-27387",
+   "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/13ba74795f1c24492d7d24379ce7a3d22bec2c5c",
+   "note": "같은 판매자의 다른 글: m.cafe.daum.net/inline4989/BrB2/27386",
+   "posted": "10.22",
+   "price": null,
+   "site": "인라인파크",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "status": "cafe",
+   "title": "솔베인 225 팝니다 (같은 판매자 글 2개)",
+   "url": "https://m.cafe.daum.net/inline4989/BrB2/27387"
+  },
+  {
+   "brand": "솔베인",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "cafe-BrB2-27394",
+   "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/a9d7887cb153c140b9be7ae58e67ebe1a6304e58",
+   "note": "미리보기: 외관 사용감 빼고는 내피 상태 좋음",
+   "posted": "11.13",
+   "price": null,
+   "site": "인라인파크",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "status": "cafe",
+   "title": "솔베인 225 이즈 프레임",
+   "url": "https://m.cafe.daum.net/inline4989/BrB2/27394"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "cafe-Lev4-29390",
+   "note": "레이싱-부츠 게시판",
+   "posted": "10.30",
+   "price": null,
+   "site": "인라인파크",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "cafe",
+   "title": "시티런 엘리트 부츠 230mm",
+   "url": "https://m.cafe.daum.net/inline4989/Lev4/29390"
+  },
+  {
+   "brand": "S부츠",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "cafe-Lev4-29401",
+   "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/f301134d1aba90618bbf06007549e6681a134bb8",
+   "note": "레이싱-부츠 게시판",
+   "posted": "11.08",
+   "price": null,
+   "site": "인라인파크",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "status": "cafe",
+   "title": "S 부츠 220mm (가격수정)",
+   "url": "https://m.cafe.daum.net/inline4989/Lev4/29401"
+  },
+  {
+   "brand": "시티런 · S부츠",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "cafe-Lev4-29404",
+   "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/9e295ace984233d14b1577959d70a3fa8a7ab273",
+   "note": "레이싱-부츠 게시판",
+   "posted": "11.11",
+   "price": null,
+   "site": "인라인파크",
+   "size": "230-235",
+   "sizes": [
+    230
+   ],
+   "status": "cafe",
+   "title": "시티런 / S 부츠 판매합니다 (230-235)",
+   "url": "https://m.cafe.daum.net/inline4989/Lev4/29404"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "daangn-3o5x77wmgot6",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202610/e05e3c2e-2b1a-4151-aed5-d1cdc1833063.webp?f=webp&q=90&s=300x300&t=crop",
+   "note": "장갑·신발 케이스 포함, 상태 언급 없음",
+   "price": 120000,
+   "site": "당근",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "unknown",
+   "title": "선수용 시티런 레이싱 인라인 230",
+   "url": "https://www.daangn.com/kr/buy-sell/%EC%84%A0%EC%88%98%EC%9A%A9-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-230-3o5x77wmgot6/"
+  },
+  {
+   "brand": "솔베인",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "daangn-49wems3v3whv",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202609/1789347549084668f1ed02c2bc1d657da9ce7398342d556d9b8c306368b9d223263e01467bbf20.webp?f=webp&q=90&s=300x300&t=crop",
+   "note": "까짐 있음",
+   "price": 100000,
+   "site": "당근",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "status": "bad",
+   "title": "솔베인 인라인 225",
+   "url": "https://www.daangn.com/kr/buy-sell/%EC%86%94%EB%B2%A0%EC%9D%B8-%EC%9D%B8%EB%9D%BC%EC%9D%B8225-49wems3v3whv/"
+  },
+  {
+   "brand": "스케이팅스타트 (지정 브랜드 아님)",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "daangn-843f8iui5tu9",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202610/1791894855098369db07a5cbcac95132a5adb243b7dee99e7408b8e5dfcd966cad2fbe913d3270.webp?f=webp&q=90&s=300x300&t=crop",
+   "note": "올해 5월 구입, 10회 미만, 박스 풀구성",
+   "price": 430000,
+   "site": "당근",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "status": "good",
+   "title": "SKATING START 레이싱 인라인 스케이트 225",
+   "url": "https://www.daangn.com/kr/buy-sell/skating-start-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-225-210%EB%B6%80%ED%84%B0-%EC%B0%A9%EC%9A%A9-%EA%B0%80%EB%8A%A5-843f8iui5tu9/"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "daangn-f6i2jx1nu5cx",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202503/ffc8d23dbd9147f44ce4a021f9f119f7b8c7ea0354a902861e2efa18dea7d39e_0.webp?f=webp&q=90&s=300x300&t=crop",
+   "note": "사용감 조금, 상태 양호. 중고나라에도 같은 매물",
+   "price": 450000,
+   "site": "당근",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "status": "good",
+   "title": "챔피언 시티런 스피드 레이싱 인라인 225 (LB37)",
+   "url": "https://www.daangn.com/kr/buy-sell/%EC%B1%94%ED%94%BC%EC%96%B8-%EC%8B%9C%ED%8B%B0%EB%9F%B0-%EC%8A%A4%ED%94%BC%EB%93%9C-%EC%9D%B8%EB%9D%BC%EC%9D%B8%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-225-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-lb37-f6i2jx1nu5cx/"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "daangn-kdcud1grrs7u",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202610/76400aa4-40ec-4501-8c9e-8e9a732698eb.webp?f=webp&q=90&s=300x300&t=crop",
+   "note": "사용감 있지만 주행 문제 없음",
+   "price": 200000,
+   "site": "당근",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "status": "good",
+   "title": "시티런 레이싱 인라인 스케이트 220mm",
+   "url": "https://www.daangn.com/kr/buy-sell/%EC%8B%9C%ED%8B%B0%EB%9F%B0-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-220mm-kdcud1grrs7u/"
+  },
+  {
+   "brand": "S부츠",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "daangn-kjsh3nfc8cmr",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202604/604fc67c680904d9eea5a4846c6bc77576a76489033a99bd9f390222fad59348_0.webp?f=webp&q=90&s=300x300&t=crop",
+   "note": "미사용 새제품, 정가 66만원",
+   "price": 500000,
+   "site": "당근",
+   "size": "215-225",
+   "sizes": [
+    220,
+    225
+   ],
+   "status": "good",
+   "title": "215-225 레이싱 인라인 새제품 (S부츠)",
+   "url": "https://www.daangn.com/kr/buy-sell/215-225-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%83%88%EC%A0%9C%ED%92%88-kjsh3nfc8cmr/"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "daangn-mx51hzoouk3c",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202610/17918783791764f0ad78628891c4f4f7c0effc0cb03aeb8eccdd133626cd3b4f24d2e8c3693d00.webp?f=webp&q=90&s=300x300&t=crop",
+   "note": "설명에 상태 언급 없음",
+   "price": 200000,
+   "site": "당근",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "unknown",
+   "title": "시티런 레이싱 인라인 230 + 이즈프레임",
+   "url": "https://www.daangn.com/kr/buy-sell/%EC%8B%9C%ED%8B%B0%EB%9F%B0-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-230m-mx51hzoouk3c/"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "daangn-oi85v55zj2b1",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202608/f08242270a4a0e3159a72d6f0101ff33f44a92d701a5307042daba0fe0364798_0.webp?f=webp&q=90&s=300x300&t=crop",
+   "note": "상태 언급 없음, 반품 불가",
+   "price": 124000,
+   "site": "당근",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "status": "unknown",
+   "title": "챔피언 시티런 인라인 스케이트 225",
+   "url": "https://www.daangn.com/kr/buy-sell/%EC%B1%94%ED%94%BC%EC%96%B8-%EC%8B%9C%ED%8B%B0%EB%9F%B0-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-225-oi85v55zj2b1/"
+  },
+  {
+   "brand": "솔베인",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "daangn-p2iedbr6u317",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202602/1770530343142703032319c51deeae227de7c99a061f19623bc3277d0ce2e8dcddcaf62eb15c80.webp?f=webp&q=90&s=300x300&t=crop",
+   "note": "1년 사용, 까짐 조금 있음 — 사진 확인 필요",
+   "price": 300000,
+   "site": "당근",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "status": "good",
+   "title": "솔베인 드림 플러스 인라인 220 (선수용)",
+   "url": "https://www.daangn.com/kr/buy-sell/%EC%86%94%EB%B2%A0%EC%9D%B8-%EB%93%9C%EB%A6%BC-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-220%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%84%A0%EC%88%98%EC%9A%A9%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%ED%94%BC%EB%93%9C%EC%9D%B8%EB%9D%BC%EC%9D%B8-220-p2iedbr6u317/"
+  },
+  {
+   "brand": "FX4 (지정 브랜드 아님)",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "joongna-225512960",
+   "image": "https://img2.joongna.com/media/original/2026/02/22/1771718753385zWD_4jsSX.jpg?impolicy=resizeWatermark3&ftext=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%238002940",
+   "note": "20회 미만, 매우 양호, 바퀴 거의 새것. 이름 써 있음",
+   "price": 250000,
+   "site": "중고나라",
+   "size": "220~235",
+   "sizes": [
+    220,
+    225,
+    230
+   ],
+   "status": "good",
+   "title": "레이싱 인라인스케이트 220~235 FX4",
+   "url": "https://web.joongna.com/product/225512960"
+  },
+  {
+   "brand": "CIS (지정 브랜드 아님)",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "joongna-227849593",
+   "image": "https://img2.joongna.com/media/original/2026/04/23/17769414299713z8_aSeaq.jpg?impolicy=resizeWatermark3&ftext=%EC%83%88%EC%82%A5%EC%9E%A5%ED%84%B0",
+   "note": "사용감 조금, 상태 양호, 이니셜 있음",
+   "price": 350000,
+   "site": "중고나라",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "status": "good",
+   "title": "스피드 레이싱 인라인 225 CIS 카본부츠 (LB82)",
+   "url": "https://web.joongna.com/product/227849593"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "joongna-227962130",
+   "image": "https://img2.joongna.com/media/original/2026/04/26/1777210378784t6w_yJxB4.jpg?impolicy=resizeWatermark3&ftext=%EC%A7%80%EC%98%81%EC%93%B02",
+   "note": "사용감 있음",
+   "price": 150000,
+   "site": "중고나라",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "bad",
+   "title": "시티런 엘리트 230",
+   "url": "https://web.joongna.com/product/227962130"
+  },
+  {
+   "brand": "테크니카 (지정 브랜드 아님)",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "joongna-229488129",
+   "image": "https://img2.joongna.com/media/original/2026/06/10/17810468659284jK_U8XQq.jpg?impolicy=resizeWatermark3&ftext=%ED%97%A4%EC%9D%B4%EC%9D%B4%EC%B8%A0%EB%AF%B8%EB%8C%80%EB%8B%88",
+   "note": "\"양호한 편\"이라고만 적혀 있음",
+   "price": 55000,
+   "site": "중고나라",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "unknown",
+   "title": "테크니카 레이싱 인라인 5륜 230mm",
+   "url": "https://web.joongna.com/product/229488129"
+  },
+  {
+   "brand": "내셔널 (지정 브랜드 아님)",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "joongna-229527822",
+   "image": "https://img2.joongna.com/media/original/2026/06/11/1781144264779vxh_qzczq.jpg?impolicy=resizeWatermark3&ftext=%EB%9F%AC%ED%82%A4%EC%86%A1%EC%86%A1",
+   "note": "까짐 있음, 테이핑 필요",
+   "price": 120000,
+   "site": "중고나라",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "status": "bad",
+   "title": "레이싱인라인 NL부츠(내셔널스포츠) 220mm",
+   "url": "https://web.joongna.com/product/229527822"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "joongna-230742973",
+   "image": "https://img2.joongna.com/media/original/2026/07/18/1784363365698vDZ_AslZl.jpg?impolicy=resizeWatermark3&ftext=%EC%99%B8%EC%A0%A0",
+   "note": "가죽 벗겨진 부분 있음",
+   "price": 180000,
+   "site": "중고나라",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "bad",
+   "title": "씨티런 레이싱인라인 230mm",
+   "url": "https://web.joongna.com/product/230742973"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T16:40:00+09:00",
+   "id": "joongna-230908525",
+   "image": "https://img2.joongna.com/media/original/2026/07/23/1784804529793J21_Qq7mr.jpg?impolicy=resizeWatermark3&ftext=%EB%A7%A4%EB%8F%85",
+   "note": "프레임 길이 279, 상태 언급 없음",
+   "price": 250000,
+   "site": "중고나라",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "status": "unknown",
+   "title": "시티런 인라인 220 레이싱인라인",
+   "url": "https://web.joongna.com/product/230908525"
+  },
+  {
+   "brand": "센텀",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "daangn-mdpk9m4sqdzu",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202611/17937716562862731564de717f4d9537d19d70068779f5e785b099a56a431c0fefb437205b1510.webp?f=webp&q=95&s=300x300&service=webapp&t=crop",
+   "note": "새상품 카본부츠(부츠만), 165마운트, 프레임 체결 안 함. 설명엔 25만원 (중고나라 233792041과 같은 판매자)",
+   "price": 210000,
+   "site": "당근",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "status": "good",
+   "title": "센텀 인라인레이싱 슈즈 새상품 (220)",
+   "url": "https://www.daangn.com/kr/buy-sell/%EC%84%BC%ED%85%80-%EC%9D%B8%EB%9D%BC%EC%9D%B8%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%8A%88%EC%A6%88-%EC%83%88%EC%83%81%ED%92%88-mdpk9m4sqdzu/"
+  },
+  {
+   "brand": "센텀",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "daangn-9j1ig6ie73v2",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202611/1793771464637c2b214b981ebc5dd88651968a99f40423078357d7721ed3c364d96c895fdb9360.webp?f=webp&q=95&s=300x300&service=webapp&t=crop",
+   "note": "새상품 카본부츠(부츠만), 165마운트. 설명엔 25만원 (중고나라 233791960과 같은 판매자)",
+   "price": 210000,
+   "site": "당근",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "good",
+   "title": "센텀 레이싱인라인부츠 새상품 (230)",
+   "url": "https://www.daangn.com/kr/buy-sell/%EC%84%BC%ED%85%80-%EB%A0%88%EC%9D%B4%EC%8B%B1%EC%9D%B8%EB%9D%BC%EC%9D%B8%EB%B6%80%EC%B8%A0-%EC%83%88%EC%83%81%ED%92%88-9j1ig6ie73v2/"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "daangn-8hk1ivd4pke5",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202611/63d7e1c2-8b85-459d-b930-9f8e6302a81f.webp?f=webp&q=95&s=300x300&service=webapp&t=crop",
+   "note": "카본 부츠 풀세트, “사용감 있습니다”만 적혀 있음 — 사진 확인 필요",
+   "price": 120000,
+   "site": "당근",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "unknown",
+   "title": "시티런 챔피언 레이싱 인라인 스케이트 블랙",
+   "url": "https://www.daangn.com/kr/buy-sell/%EC%8B%9C%ED%8B%B0%EB%9F%B0-%EC%B1%94%ED%94%BC%EC%96%B8-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-%EB%B8%94%EB%9E%99-8hk1ivd4pke5/"
+  },
+  {
+   "brand": "로드스타 (지정 브랜드 아님)",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "daangn-aju8ouqyfqdf",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202611/7bac76391bb0e7e029e3b9ec513efa75868c7d7b49a0fd7dbc31fa15109c028a_0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop",
+   "note": "사이드 마찰로 쓸린 자국 있음",
+   "price": 150000,
+   "site": "당근",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "status": "bad",
+   "title": "로드스타 레이싱 인라인 스케이트 블루",
+   "url": "https://www.daangn.com/kr/buy-sell/%EB%A1%9C%EB%93%9C%EC%8A%A4%ED%83%80-%EB%A0%88%EC%9D%B4%EC%8B%B1-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%8A%B8-%EB%B8%94%EB%A3%A8-aju8ouqyfqdf/"
+  },
+  {
+   "brand": "솔베인",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "joongna-225063932",
+   "image": "https://img2.joongna.com/media/original/2026/02/08/17705552038446RL_GEwr9.jpg?impolicy=resizeWatermark3&ftext=%EC%9C%A0%EC%A0%84%EB%AC%B4%EC%A3%84%EB%AC%B4%EC%A0%84%EC%9C%A0%EC%A3%84",
+   "note": "솔베인 레이싱 부츠 새상품(부츠만), 220 2켤레·225 1켤레, 각 30만원 (2월 등록글)",
+   "price": 300000,
+   "site": "중고나라",
+   "size": "220, 225",
+   "sizes": [
+    220,
+    225
+   ],
+   "status": "good",
+   "title": "인라인 레이싱 부츠 (솔베인 220/225)",
+   "url": "https://web.joongna.com/product/225063932"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "joongna-225064851",
+   "image": "https://img2.joongna.com/media/original/2026/02/08/1770556758949IU0_n4PQP.jpg?impolicy=resizeWatermark3&ftext=%EC%9C%A0%EC%A0%84%EB%AC%B4%EC%A3%84%EB%AC%B4%EC%A0%84%EC%9C%A0%EC%A3%84",
+   "note": "씨티런 챔피언 220 새상품(부츠만), 30만원 택배비 포함 (2월 등록글)",
+   "price": 300000,
+   "site": "중고나라",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "status": "good",
+   "title": "인라인 레이싱 부츠 (씨티런 챔피언 220)",
+   "url": "https://web.joongna.com/product/225064851"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "joongna-224181716",
+   "image": "https://img2.joongna.com/media/original/2026/01/16/1768547286350RGJ_s2ov2.jpg?impolicy=resizeWatermark3&ftext=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%238875151",
+   "note": "사이즈 확인만 한 새상품, 사이즈 미스 (1월 등록글)",
+   "price": 300000,
+   "site": "중고나라",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "status": "good",
+   "title": "시티런 인라인 220",
+   "url": "https://web.joongna.com/product/224181716"
+  },
+  {
+   "brand": "센텀",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "joongna-233792041",
+   "image": "https://img2.joongna.com/media/original/2026/11/04/1793771326303Fm6_eOt3A.jpg?impolicy=resizeWatermark3&ftext=2%ED%98%B8%EC%95%BC%ED%8C%8C",
+   "note": "새상품 카본부츠, 165마운트 (당근 mdpk9m4sqdzu와 같은 판매자)",
+   "price": 250000,
+   "site": "중고나라",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "status": "good",
+   "title": "센텀 레이싱인라인부츠 (220)",
+   "url": "https://web.joongna.com/product/233792041"
+  },
+  {
+   "brand": "센텀",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "joongna-233791960",
+   "image": "https://img2.joongna.com/media/original/2026/11/04/1793771157135OKU_EV3sJ.jpg?impolicy=resizeWatermark3&ftext=2%ED%98%B8%EC%95%BC%ED%8C%8C",
+   "note": "새상품 카본부츠, 165마운트 (당근 9j1ig6ie73v2와 같은 판매자)",
+   "price": 250000,
+   "site": "중고나라",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "good",
+   "title": "센텀 레이싱인라인부츠 (230)",
+   "url": "https://web.joongna.com/product/233791960"
+  },
+  {
+   "brand": "STRUT (지정 브랜드 아님)",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "joongna-209492307",
+   "image": "https://img2.joongna.com/cafe-article-data/live/2025/05/11/1105098399/1746952440807_000_uJfb2_main.jpg?impolicy=resizeWatermark3&ftext=%EC%9D%91%EB%8B%B5%ED%95%98%EB%9D%BC%EC%9D%B4%EC%BD%94%EC%8A%A4",
+   "note": "부츠만, 상태 설명 없음(사진 확인), 네고·반품 불가 (2025년 5월 글)",
+   "price": 42000,
+   "site": "중고나라",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "unknown",
+   "title": "인라인스케이트 부츠 스트럿 STRUT 루이지노 레이싱 230mm 165 마운트",
+   "url": "https://web.joongna.com/product/209492307"
+  },
+  {
+   "brand": "시티런",
+   "found": "2026-11-14T18:12:00+09:00",
+   "id": "joongna-214294856",
+   "image": "https://img2.joongna.com/cafe-article-data/live/2025/07/03/1110551977/1751529224519_000_4Yuw3_main.jpg?impolicy=resizeWatermark3&ftext=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%239612674",
+   "note": "230은 이미 팔리고 215mm만 남음",
+   "price": 180000,
+   "site": "중고나라",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "status": "bad",
+   "title": "레이싱용 인라인 (씨티런 챔피온)",
+   "url": "https://web.joongna.com/product/214294856"
+  },
+  {
+   "id": "daangn-gnq1b4qfhwa9",
+   "site": "당근",
+   "title": "Raider 아동용 스피드 인라인 판매합니다",
+   "url": "https://www.daangn.com/kr/buy-sell/raider-%EC%95%84%EB%8F%99%EC%9A%A9-%EC%8A%A4%ED%94%BC%EB%93%9C-%EC%9D%B8%EB%9D%BC%EC%9D%B8-%ED%8C%90%EB%A7%A4%ED%95%A9%EB%8B%88%EB%8B%A4-gnq1b4qfhwa9/",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "price": 100000,
+   "brand": "Raider (지정 브랜드 아님)",
+   "status": "good",
+   "note": "선수 훈련용 사용 후 보관, 사용감 있으나 기능 문제 없음. 가방·헬멧·보호대 포함 세트 (2026-06 글)",
+   "found": "2026-11-14T20:12:00+09:00",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202606/a889a79b4809c2cfd5dcfd5a35659cbc11ce8e32c49ef9421d3e1aae63142d34_0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+  },
+  {
+   "id": "cafe-Lev4-29394",
+   "site": "인라인파크",
+   "title": "시티런 230 사이즈 판매합니다.(판매완료)",
+   "url": "https://m.cafe.daum.net/inline4989/Lev4/29394",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "price": null,
+   "brand": "시티런",
+   "status": "bad",
+   "note": "제목에 판매완료 — 제외",
+   "posted": "26.11.02",
+   "found": "2026-11-14T20:12:00+09:00",
+   "image": "https://img1.daumcdn.net/thumb/C300x300/?fname=https://t1.daumcdn.net/cafeattach/JBrg/200817e627954e70cd7be5329809bce071872c2b"
+  },
+  {
+   "id": "joongna-232442831",
+   "site": "중고나라",
+   "title": "솔베인인라인",
+   "url": "https://web.joongna.com/product/232442831",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "price": 100000,
+   "brand": "솔베인",
+   "status": "bad",
+   "note": "설명에 '기스가 있어 저렴히' — 부츠만, 상태 불량으로 제외",
+   "found": "2026-11-15T08:12:18+09:00",
+   "image": "https://img2.joongna.com/media/original/2026/09/15/1789443690779OW1_LND34.jpg?impolicy=resizeWatermark3&ftext=kmh7136"
+  },
+  {
+   "id": "joongna-227913279",
+   "site": "중고나라",
+   "title": "씨티런 인라인스케이트",
+   "url": "https://web.joongna.com/product/227913279",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "price": 300000,
+   "brand": "시티런",
+   "status": "good",
+   "note": "씨티런 챔피온 225, 165마운트, 반품불가 새상품(국산) — 26년 4월 글",
+   "found": "2026-11-15T10:12:55+09:00",
+   "image": "https://img2.joongna.com/media/original/2026/04/25/1777099626512m6l_L9bEn.jpg?impolicy=resizeWatermark3&ftext=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%2310760175"
+  },
+  {
+   "id": "joongna-208018668",
+   "site": "중고나라",
+   "title": "시티런 인라인스케이트+스케이트날 일괄",
+   "url": "https://web.joongna.com/product/208018668",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "price": 149000,
+   "brand": "시티런",
+   "status": "bad",
+   "note": "약 12년 전 선수용, '사용감 좀 있음·하자는 사진 확인' — 녹슨 빙상날 서비스",
+   "found": "2026-11-15T10:12:55+09:00",
+   "image": "https://img2.joongna.com/media/original/2025/06/11/17496477465582NA_wL0jY.jpg?impolicy=resizeWatermark3&ftext=%EB%AD%89%EA%B2%8C%EA%B5%AC%EB%A6%8488"
+  },
+  {
+   "id": "daangn-gn8a7h64qp3o",
+   "site": "당근",
+   "title": "Simmons Racing K-Series 인라인 스케이트 풀셋트(230)",
+   "url": "https://www.daangn.com/kr/buy-sell/gn8a7h64qp3o/",
+   "size": "230",
+   "sizes": [
+    230
+   ],
+   "price": 250000,
+   "brand": "Simmons Racing (지정 브랜드 아님)",
+   "status": "unknown",
+   "note": "수제 카본 부츠+알루미늄 프레임 풀세트, 상태 언급 없음",
+   "found": "2026-11-15T20:12:26+09:00",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202610/6f4925a1-5d85-4dbe-818e-79aee47296ed.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+  },
+  {
+   "id": "daangn-14s5dcvayy2u",
+   "site": "당근",
+   "title": "스피드 레이싱 인라인스케이트 225 CIS 카본부츠 LB82",
+   "url": "https://www.daangn.com/kr/buy-sell/14s5dcvayy2u/",
+   "size": "225",
+   "sizes": [
+    225
+   ],
+   "price": 350000,
+   "brand": "CIS스포츠 (지정 브랜드 아님)",
+   "status": "good",
+   "note": "카본부츠+쉥켈 라이트맥스 프레임+아르코 100mm, 이니셜 있음·사용감 조금·상태양호",
+   "found": "2026-11-16T03:41:46+09:00",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202604/9cc1e601e154f0e7f664efe9131f3ed2a059d5f26e448df9fc354835747358bf_0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+  },
+  {
+   "id": "daangn-h1rv7g7ndt74",
+   "site": "당근",
+   "title": "슈가티 인라인 스케이트 EU36 (230mm)",
+   "url": "https://www.daangn.com/kr/buy-sell/h1rv7g7ndt74/",
+   "size": "230 (EU36)",
+   "sizes": [
+    230
+   ],
+   "price": 143000,
+   "brand": "슈가티 (지정 브랜드 아님)",
+   "status": "unknown",
+   "note": "카본 레이싱 인라인, 6061 프레임·90mm 휠 — 상태 언급 없음",
+   "found": "2026-11-16T03:41:46+09:00",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202609/23233674-fa60-415c-8174-5167479d73c6.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+  },
+  {
+   "id": "daangn-d7cu3sggyzka",
+   "site": "당근",
+   "title": "시티런 엘리트 프로 인라인 스케이트 부츠 화이트 220mm",
+   "url": "https://www.daangn.com/kr/buy-sell/d7cu3sggyzka/",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "price": 250000,
+   "brand": "시티런",
+   "status": "good",
+   "note": "카본 레이싱 부츠만. 아이가 한 번 타고 바꿈(사진으로 상태 확인 권장), 시착 가능",
+   "found": "2026-11-16T20:12:47+09:00",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202611/6d59870d-dfbd-4615-b455-37d2810d4514.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+  },
+  {
+   "id": "daangn-sa8hj1tz759b",
+   "site": "당근",
+   "title": "시티런 레이싱 인라인스케이트 220 cm",
+   "url": "https://www.daangn.com/kr/buy-sell/sa8hj1tz759b/",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "price": 400000,
+   "brand": "시티런",
+   "status": "good",
+   "note": "레이싱 풀세트(100mm 휠, 1004 프레임). 실내 강습만 해서 깨끗함",
+   "found": "2026-11-17T15:10:00+09:00",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202611/179488966219121651e53fcd5d7740c720ce34dfe171ed461616ba76da27225d99f821273af2a0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+  },
+  {
+   "id": "daangn-ugur7cj2d8ar",
+   "site": "당근",
+   "title": "레이싱 인라인 스케이트 FX4",
+   "url": "https://www.daangn.com/kr/buy-sell/ugur7cj2d8ar/",
+   "size": "220~235",
+   "sizes": [
+    220,
+    225,
+    230
+   ],
+   "price": 200000,
+   "brand": "FX4 (지정 브랜드 아님)",
+   "status": "good",
+   "note": "레이싱용, 주말 간헐 실착 20회 미만, 상태 매우 양호·바퀴 거의 새것",
+   "found": "2026-11-18T12:13:00+09:00",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202602/f82dd6900f427e5ceca8d9c6e17b4f0febd2c5a6ce12a64dd1cc523a83196682_0.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+  },
+  {
+   "id": "daangn-agknobgpq5ty",
+   "site": "당근",
+   "title": "인라인 레이싱 스케이트 세트 + 전용가방",
+   "url": "https://www.daangn.com/kr/buy-sell/agknobgpq5ty/",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "price": 130000,
+   "brand": "브랜드 미표기 (지정 브랜드 아님)",
+   "status": "unknown",
+   "note": "레이싱 3륜 세트+가방, 부츠 220. 상태 언급 없음",
+   "found": "2026-11-18T14:15:00+09:00",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202611/992476c8-33c7-428e-8fb6-89f73cc85356.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+  },
+  {
+   "id": "daangn-nrp3ymyscxt3",
+   "site": "당근",
+   "title": "챔피언 인라인 레이싱스케이트",
+   "url": "https://www.daangn.com/kr/buy-sell/nrp3ymyscxt3/",
+   "size": "220",
+   "sizes": [
+    220
+   ],
+   "price": 150000,
+   "brand": "시티런 (챔피언 나이트로)",
+   "status": "unknown",
+   "note": "챔피언 나이트로 카본, 3x80mm, 부츠 220. 상태 언급 없음",
+   "found": "2026-11-18T14:15:00+09:00",
+   "image": "https://img.kr.gcp-karroter.net/origin/article/202611/d51a78e7-7d29-4fb6-9232-a96f52c89e4a.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
+  }
+ ],
+ "updated": "2026-11-18T14:15:00+09:00"
 }
