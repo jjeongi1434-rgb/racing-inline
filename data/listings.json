@@ -781,7 +781,24 @@
       "status": "unknown",
       "title": "챔피언 인라인 레이싱스케이트",
       "url": "https://www.daangn.com/kr/buy-sell/nrp3ymyscxt3/"
+    },
+    {
+      "id": "daangn-u7ipbzbvvny3",
+      "site": "당근",
+      "title": "시티런 인라인 스케이트 화이트 230",
+      "url": "https://www.daangn.com/kr/buy-sell/u7ipbzbvvny3/",
+      "size": "225~235",
+      "sizes": [
+        225,
+        230
+      ],
+      "price": 200000,
+      "brand": "시티런",
+      "status": "unknown",
+      "note": "선수용 레이싱 풀셋(부츠·프레임·바퀴), 작아서 판매, 상태 언급 없음",
+      "found": "2026-11-19T00:44:00+09:00",
+      "image": "https://img.kr.gcp-karroter.net/origin/article/202611/e45c9484-7cd1-48f6-85e7-064764ddc3bb.webp?f=webp&q=95&s=300x300&service=webapp&t=crop"
     }
   ],
-  "updated": "2026-11-18T16:15:00+09:00"
+  "updated": "2026-11-19T00:44:00+09:00"
 }
